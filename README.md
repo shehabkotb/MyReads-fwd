@@ -11,7 +11,6 @@ You can run the project if you have node installed on your machine.
 
 ## Application Demo
 
-https://user-images.githubusercontent.com/30159212/130303125-37646c66-2d8e-49fb-9e51-8dbcbd061157.mp4
 
 ## Backend Server
 
